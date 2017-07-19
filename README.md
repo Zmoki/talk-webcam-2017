@@ -1,22 +1,20 @@
 # talk-webcam-2017
-Content of talk about JS and webcam in browser
+Content for the talk on JS and webcam in browsers
 
 ## Title
 
 Playful webcam
 
 ## Description
+Taking photos, recording or streaming video and audio: all these
+can now be done with native browser capabilities and JS.
 
-Take photos, record or stream video and audio - all of these
-we can be done now with native browser capabilities and JS.
+But, can we configure our camera the way we do it on smartphones?
+Zoom, maybe? Applying a mask like in Stories? Changing the voice?
+Or, how about transforming a video stream into ASCII?
 
-But can we configure the camera like on smartphones? Zoom it?
-Can we apply the mask, as in the stories?
-Or change a voice?
-Maybe transform a video stream into a ASCII?
-
-I'll tell you how to work with the webcam in the browser
-from the beginning and to applying the crazy stuff.
+I'll tell you how to handle webcam in browsers:
+starting from scratch and applying some crazy stuff in the end.
 
 ## About me
 
@@ -35,16 +33,26 @@ from the beginning and to applying the crazy stuff.
 
 ### My bio
 
-I'm frontend developer at [Uploadcare][uploadcare],
-I'm working on a widget for uploading files.
+I'm a Frontend Developer with [Uploadcare][uploadcare]
+and I work on a widget for uploading files
+used by thousands of companies around the globe.
 
-I live in Saint-Petersburg, Russia, and I'm founder and
-co-organizer of the [SPB Frontend][spb-frontend] community.
+I live in Saint-Petersburg, Russia, where I'm also a founder and
+active partaker of the [SPB Frontend][spb-frontend] community.
 
-I started dev in web when JS used only for snow fall on pages.
-I like how to web technologies change and JS grow up.
+My path in webdev started back in a day when JS was only
+used to make it snowing on pages. I like how web technologies and JS
+in particular have evolved since.
 
-Also, I like cats and serials by Netflix and Sy-fy.
+Also, I like cats and series by Netflix and Sy-fy.
+
+## Company profile
+
+Uploadcare is an IaaS handling file infrastructure for web and mobile apps.
+It's all about implementing ideas, not techs. We make sure a complete building
+block for handling files we provide grants our users simple controls over complex
+technologies. With Uploadcare, you get an uploading interface, storage, processing,
+caching, and delivery in a few lines of code.
 
 [uploadcare]: https://uploadcare.com/
 [spb-frontend]: http://spb-frontend.ru/
