@@ -24,6 +24,7 @@ starting from scratch and apply the crazy stuff in the end.
 * **Company**: Uploadcare
 * **Site of the company**: https://uploadcare.com/
 * **Logo of the company**: [png][uploadcare-png], [svg][uploadcare-svg]
+* **About company**: Uploadcare is an IaaS handling file infrastructure for the web and mobile apps
 * **Position**: Senior Frontend Developer
 * **Photo**: https://ucarecdn.com/332c902b-6da1-4dbf-b255-10efe824a849/-/crop/1050x1050/680,0/-/preview/500x500/-/quality/best/zarema-khalilova.jpg
 
