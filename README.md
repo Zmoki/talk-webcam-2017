@@ -23,8 +23,12 @@ starting from scratch and apply the crazy stuff in the end.
 * **Full name**: Zarema Khalilova
 * **Company**: Uploadcare
 * **Site of the company**: https://uploadcare.com/
+* **Logo of the company**: [png][uploadcare-png], [svg][uploadcare-svg]
 * **Position**: Senior Frontend Developer
 * **Photo**: https://ucarecdn.com/332c902b-6da1-4dbf-b255-10efe824a849/-/crop/1050x1050/680,0/-/preview/500x500/-/quality/best/zarema-khalilova.jpg
+
+[uploadcare-png]: https://ucarecdn.com/42d10221-1c2f-40b0-b348-b44eb02662bb/uploadcare-logo.png
+[uploadcare-svg]: https://ucarecdn.com/e0367a86-9787-44b1-bc94-878e18ae2928/uploadcare-logo.svg
 
 <p>
   <a href="https://ucarecdn.com/332c902b-6da1-4dbf-b255-10efe824a849/-/crop/1050x1050/680,0/-/preview/500x500/-/quality/best/zarema-khalilova.jpg">
