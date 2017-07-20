@@ -47,8 +47,8 @@ used by thousands of companies around the globe.
 I live in Saint-Petersburg, Russia, where I'm also a founder and
 co-organizer of the [SPB Frontend][spb-frontend] community.
 
-My path in web dev started back in a day
-when JS was only used to make it snow on pages.
+My path in web dev started
+when JS was only used to make snowfall on pages.
 I like how web technologies and JS have evolved since.
 
 [uploadcare]: https://uploadcare.com/
