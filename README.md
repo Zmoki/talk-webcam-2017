@@ -39,13 +39,12 @@ I'm frontend developer at [Uploadcare][uploadcare],
 I work on a widget for uploading files
 used by thousands of companies around the globe.
 
-I live in Saint-Petersburg, Russia, and I'm founder and
+I live in Saint-Petersburg, Russia, where I'm also a founder and
 co-organizer of the [SPB Frontend][spb-frontend] community.
 
-I started dev in web when JS used only for snow fall on pages.
-I like how to web technologies change and JS grow up.
-
-Also, I like cats and serials by Netflix and Sy-fy.
+My path in web dev started back in a day
+when JS was only used to make it snow on pages.
+I like how web technologies and JS have evolved since.
 
 [uploadcare]: https://uploadcare.com/
 [spb-frontend]: http://spb-frontend.ru/
