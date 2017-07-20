@@ -15,8 +15,8 @@ Zoom, maybe? Apply a mask like in Stories?
 Change the voice?
 Or, transform a video stream into ASCII?
 
-I'll tell you how to work with the webcam in the browser:
-starting from scratch and applying some crazy stuff in the end.
+I'll tell you how to work with the webcam in browsers:
+starting from scratch and apply the crazy stuff in the end.
 
 ## About me
 
@@ -36,7 +36,8 @@ starting from scratch and applying some crazy stuff in the end.
 ### My bio
 
 I'm frontend developer at [Uploadcare][uploadcare],
-I'm working on a widget for uploading files.
+I work on a widget for uploading files
+used by thousands of companies around the globe.
 
 I live in Saint-Petersburg, Russia, and I'm founder and
 co-organizer of the [SPB Frontend][spb-frontend] community.
