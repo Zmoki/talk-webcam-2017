@@ -1,5 +1,5 @@
 # talk-webcam-2017
-Content of talk about JS and webcam in browser
+Content for the talk about JS and webcam in browsers.
 
 ## Title
 
@@ -7,16 +7,16 @@ Playful webcam
 
 ## Description
 
-Take photos, record or stream video and audio - all of these
-we can be done now with native browser capabilities and JS.
+Take photos, record or stream video and audio: all these
+we can now be done with native browser capabilities and JS.
 
-But can we configure the camera like on smartphones? Zoom it?
-Can we apply the mask, as in the stories?
-Or change a voice?
-Maybe transform a video stream into a ASCII?
+But, can we configure our camera the way we do it on smartphones?
+Zoom, maybe? Apply a mask like in Stories?
+Change the voice?
+Or, transform a video stream into ASCII?
 
-I'll tell you how to work with the webcam in the browser
-from the beginning and to applying the crazy stuff.
+I'll tell you how to work with the webcam in the browser:
+starting from scratch and applying some crazy stuff in the end.
 
 ## About me
 
